@@ -1,0 +1,13 @@
+<section class="specifications-section">
+    {% for specSection in page.specifications %}
+    <ul>
+        {% for specification in specSection %}
+        {% if forloop.first == true %}
+        <li class="no-decorator"><h2>{{specification}}</h2></li>
+        {% else %}
+        <li>{{specification}}</li>
+        {% endif %}        
+        {% endfor %}
+    </ul>
+    {% endfor %}
+</section>
