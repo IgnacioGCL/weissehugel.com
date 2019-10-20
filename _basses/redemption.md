@@ -5,47 +5,47 @@ model: Redemption
 permalink: /basses/redemption
 url: /basses/redemption
 mainImg: /assets/img/basses/redemption.png
-height: 120px
+height: 130px
 specifications: [
     [
         "SYSTEM",
-        "Type: Solid Body – Fretted.",
+        "Type: Solid body - Fretless.",
         "System: \"Bolt-on-neck\".",
-        "Number of strings: 4",
+        "Number of strings: 4.",
         "Machine head configuration: 2+2.",
-        "Electronic configuration: 2 Pickups: 2 Humbuckers MS Type."
+        "Electronic configuration: 1 Single coil + 1 Soap bar."
     ],
     [
         "NECK",
         "Neck: Mono-block. Graphite composite.",
+        "Fretless.",
         "Shape: Oval.",
         "Neck setting: 5 points",
         "Neck setting system: Weiss/set with isolation to avoid cancellation frequencies (Pat).",
         "Truss rod: Adjustable (Option: Titanium and steel). ",
-        "Head: Graphite, American Oak and Black Wenge. Reinforced to avoid breaks. (Picture - See options)",
-        "Frets: 24 jumbo. Stainless Steel.",
-        "Inlays: White dods (Side and fret board).",
+        "Head: Graphite, Zebrawood and Wenge.  Reinforced to avoid breaks (Picture - See options)",
+        "Nut: Graph Tech.",
+        "Inlays: White dods (Side).",
         "Inserted metal threads to encase the neck to the body. (This allows the disassembling so many times as necessary without damaging the neck)."
     ],
     [
         "BODY",
-        "Body: American Oak. (Picture – See options)",
-        "Sandwich: Black Wenge.",
-        "Top: American Oak. (Picture – See options)",
-        "Insertion: African Padauk. (Picture - See options).",
-        "Ergonomic molded body (Pat)"
+        "Body: Zebrawood. (Picture – See options)",
+        "Top: Zebrawood. (Picture – See options)",
+        "Sandwich: Wenge. (Picture – See options)",
+        "Ergonomic molded body. (Pat)"
     ],
     [
         "ELECTRONICS",
-        "Type: Active and Passive. ",
-        "Pickups: 2 Passive Humbuckers Delano MC4AL.",
-        "Equalization: Three band active preamp 3 MS Sonar by Delano, plus custom low-pass filter.
-        (Option: Mini-switches to change the middle frequencies).", 
+        "Type: Active and Passive.",
+        "Pickups: 1 JSBC4 \"Twin coil in line\" by Delano + 1 Soap bar Bartolini (See options)",
+        "Equalization: Three band active preamp 3 MS Sonar by Delano, plus custom low-pass filter. (Option: Mini-switches to change the middle frequencies).",
+        "Female: Security Locking Neutrik. NJ3FP6C jack ¼\".",
         "Body grounded to avoid static noises.",
-        "Female: Security locking Neutrik jack ¼\" NJ3FP6C."
+        "Easy open battery compartment."
     ],
     [
-        "PREAMP SONAR 3 MS SPECIFICATIONS",
+        "PREAMP SONAR 3 MS SPECIFICATIONS ",
         "Input impedance: >1 MOhm>.",
         "Output impedance: 100 Ohm.",
         "Signal-to-noise ratio: -98db.",
@@ -62,62 +62,61 @@ specifications: [
         "CONTROLS",
         "Volume: 1. (Push/Pull - Active/Passive)",
         "Pickups Selector: 1 Balance.",
-        "Bass: 1.",
-        "Middle: 1.",
+        "Bass: 1. ",
+        "Middle:1.",
         "Treble: 1.",
-        "Low pass filter: 1. ",
-        "1 mini switch (Single/Double coil) (Optional: Micro-switches to change the middle frequencies).",
+        "Low pass filter: 1. (Optional: Micro-switches to change the middle frequencies)."
     ],
     [
         "HARDWARE",
-        "Nut: Graph Tech.",
+        "Nut: Graph Tech",
         "Machine head: Auto-lubricated Mini by Schaller. ",
-        "Bridge: ABM 3705.",
+        "Bridge: ABM 3704.",
         "Pickups Setting: Direct to the body (Floating)",
-        "Knobs: Metallic. Speed Knobs by Schaller. ",
-        "Strap locks Dunlop Flush mount 1401-n.",
-        "Strings setting: Direct to the bridge"
+        "Knobs: Metallic. Speed Knobs by Schaller.",
+        "Strap locks: Dunlop Flush mount 1401-n.",
+        "Strings setting:  Direct to the bridge.",
+        "Slappbar: (Metal bar at the end of the neck to improve the \"slap\")."
     ],
     [
         "WEIGHT & SIZES",
         "Scale: 34\" (863,600 mm.)",
         "Shape: Oval.",
         "Radius: 16\" (406,400 mm.)",
-        "Nut width: 1, 62\" (41, 148 mm.)",
-        "Depth at first fret: 0,75\" (19,05 mm.)",
-        "Depth at 12 th fret: 0,84\" (22,86 mm.)",
-        "Heel width: 2, 40\" (60, 96)",
-        "Total length: 43, 86\" (1.114 mm.)",
-        "Maximum width: 13, 19\" (335 mm.)",
-        "Maximum thickness: 1, 77\" (45 mm.)",
-        "Maximum thickness with knobs: 2, 36\"\" (60 mm.)",
-        "Weight: 5, 00 Kg. (11, 20 lb) (Depending on the materials) (Picture)."
+        "Nut width: 2, 0625\" (52, 3875 mm.)",
+        "Depth at first fret: 0, 75\" (19, 0500 mm.)",
+        "Depth at 12 th fret: 0, 84\" (21,3360 mm.) ",
+        "Heel width: 3, 375\" (85, 7250 mm.)",
+        "Total length: 35, 826\" (910 mm.) ",
+        "Maximum width: 12, 4\" (315, 00 mm.)",
+        "Maximum thickness: 1, 77\" (45 mm.) ",
+        "Maximum thickness with knobs: 1, 89\"\" (48 mm.)",
+        "Weight: 5,60 Kg. (12, 35 lb) (Depending on the materials) (Picture)."
     ],
     [
         "OTHERS",
-        "Finish: Natural – Bright Satin. (Picture – See options)",
+        "Finish: Natural Satin. (Picture – See options)",
         "Bag: Exclusive WH.",
-        "Exclusive WH strap and cloth.",
+        "Strap and cleaning cloth: Exclusive WH.",
         "Cable: Schulz. Neutrik. Silent Type",
-        "Brand: Silver.",
-        "Name of the brand: Engraved on the body.",
-        "Model on the head.",
-        "Limited warranty: 20 years."
+        "Logo: Silver.",
+        "Brand: Engraved on the body.",
+        "Model on the head",
+        "Limited warranty: 10 years."
     ],
     [
         "WOOD",
-        "Body: Padouk, Zebrawood, Curly Cherry, Ash, Rosewood, Mahogany, Ovangkol, Spanish Oak, American Oak, Curly maple, Dabema, Wenge, Hard Maple, Bubinga, Sucupira, Erable, Dabema, Flamed Maple, Sapelly.",
-        "Top: Grenadilla (African Blackwood), Ipe, Ebony Makassar, Green Guayacán, Black Guayacán, Rosewood, Wenge , Tiger Wood, Erable,  Bubinga, Hard Maple, Cocobolo, Mango, Bosse, American Oak, Pau Ferro. Purple Wood. Curly Maple. Flamed Maple."
+        "Body: Padouk, Zebrawood, Curly Cherry, Ash, Rosewood, Mahogany, Ovangkol, Spanish Oak, American Oak, Curly maple, Dabema, Wenge, Hackberry, Aliso, Hard Maple, Bubinga, Erable, Dabema, Flamed Maple, Sapelly.",
+        "Top: Grenadilla (African Blackwood), Ipe, Ebony Makassar, Green Guayacán, Black Guayacán, Mango, Rosewood, Wenge , Tiger Wood, Erable, Bubinga, Hard Maple, Cocobolo, Bosse, American Oak, Pau Ferro. Purple Wood. Curly Maple. Flamed Maple."
     ],
     [
         "ELECTRONICS",
-        "Pickups: Bartolini, Delano, MEC, Bass Lines, EMG.",
+        "Pickups: Bartolini, Delano, MEC, di Marzio, Bass Lines, EMG.",
         "Pre-amps: Bartolini, Aguilar. EMG."
     ],
     [
         "HARDWARE",
-        "Finish: Black, Chrome.",
-        "Slappbar: (Metal bar at the end of the neck to improve the \"slap\")."
+        "Finish: Black, Chrome."
     ],
     [
         "FINISH",
@@ -125,12 +124,13 @@ specifications: [
     ],
     [
         "STRINGS",
-        "D’Addario. Elixir. GHS."
+        "Type: Flat wound – Round wound – Half Round.",
+        "D’Addario. Elixir. GHS. Rotosound."
     ],
     [
         "TRANSPORT",
         "Flightcase: Aluminium. Custom."
-    ],
+    ],            
     [
         "OTHERS",
         "GPS"

@@ -6,12 +6,12 @@ permalink: /guitars/koralle
 url: /guitars/koralle
 mainImg: /assets/img/guitars/koralle.png
 height: 130px
-sepcifications: [
+specifications: [
     [
         "SYSTEM",
         "Type: Solid body.",
         "System \"bolt-on-neck\".",
-        "Number of the strings: 6.  ",
+        "Number of the strings: 6.",
         "Machine head configuration: 4+2.",
         "Electronic configuration: H-S-H."
     ],

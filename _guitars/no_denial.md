@@ -79,7 +79,8 @@ specifications: [
         "Weight: 3, 100 kg (6,82 lb) (Depending on the materials)"
     ],
     [
-        "FINISH: Natural - Satin"
+        "FINISH", 
+        "Natural - Satin"
     ],
     [
         "OTHERS",
@@ -103,7 +104,7 @@ specifications: [
         "22 Frets"
     ],
     [
-        "ELECTRONICS:",
+        "ELECTRONICS",
         "Pickups: di Marzio, Seymour Duncan, EMG, WH, Bartolini.",
         "Piezo and Preamp: Flag by Schaller."
     ],
@@ -121,7 +122,7 @@ specifications: [
         "D’Addario. Optima. Elixir. GHS. Rotosound. Dean Markley."
     ],
     [
-        "TRANSPORT ",
+        "TRANSPORT",
         "Flight case: Custom. Aluminium."
     ],
     [

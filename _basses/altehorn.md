@@ -53,7 +53,7 @@ specifications: [
         "Power consumption: 0,8mA."
     ],
     [
-        "FRECUENCIES:",
+        "FRECUENCIES",
         "Bass: 40Hz.",
         "Middle options: 300Hz, 500 Hz, 800 Hz.",
         "Treble: 6, 5 KHz.",
