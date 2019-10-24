@@ -2,6 +2,7 @@
 layout: guitar
 title: Redemption
 model: Redemption
+description: Surprisingly ductile, the Redemption, is much more than a fretless bass. Its neck, the "Slappbar" and its electronics make it an out of the ordinary bass
 permalink: /basses/redemption
 url: /basses/redemption
 mainImg: /assets/img/basses/redemption.png

@@ -2,6 +2,7 @@
 layout: guitar
 title: Koralle
 model: Koralle
+description: The Koralle series was the first of Weisse Hügel. In it was reflected everything that would give rise to the other series of the brand
 permalink: /guitars/koralle
 url: /guitars/koralle
 mainImg: /assets/img/guitars/koralle.png

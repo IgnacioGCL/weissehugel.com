@@ -2,6 +2,7 @@
 layout: guitar
 title: No denial
 model: No denial
+description: Country, blues, rock... the No Denial is much more. Original in design and electronics can be adapted to any style without the slightest problem
 permalink: /guitars/no-denial
 url: /guitars/no-denial
 mainImg: /assets/img/guitars/no_denial.png

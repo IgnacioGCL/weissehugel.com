@@ -2,6 +2,7 @@
 layout: guitar
 title: Amathone
 model: Amathone
+description: The Amathone is the most acoustic of the WH basses. The possibility to control the behavior of the air it generates inside makes it unique
 permalink: /basses/amathone_iv
 url: /basses/amathone_iv
 mainImg: /assets/img/basses/amathone_iv.png

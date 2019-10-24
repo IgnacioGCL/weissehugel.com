@@ -1,6 +1,7 @@
 ---
 layout: guitar
 title: Koralle
+description: The Koralle was the first of the WH basses. Modern, reliable, ergonomic, balanced and powerful. The concepts that gave rise to the other models of the brand
 model: Koralle
 permalink: /basses/koralle
 url: /basses/koralle

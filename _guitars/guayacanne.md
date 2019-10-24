@@ -2,6 +2,7 @@
 layout: guitar
 title: Guayacanne
 model: Guayacanne
+description: As chameleonic and reliable as all Weisse Hügel instruments, the Guayacane, for its aesthetics, is the most conventional of the brand
 permalink: /guitars/guayacanne
 url: /guitars/guayacanne
 mainImg: /assets/img/guitars/guayacanne.png

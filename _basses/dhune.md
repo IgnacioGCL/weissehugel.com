@@ -2,6 +2,7 @@
 layout: guitar
 title: Dhüne
 model: Dhüne
+description: Classic in concept, different in aesthetics, formidable in behaviour. The Dhûne is an instrument of unquestionable personality. It is a Weisse Hügel
 permalink: /basses/dhune
 url: /basses/dhune
 mainImg: /assets/img/basses/dhune_iv.png

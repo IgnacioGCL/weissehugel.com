@@ -2,6 +2,7 @@
 layout: guitar
 title: Altehorn
 model: Altehorn
+description: The Altehorn series was conceived for the instrumentalist who seeks great definition in addition to design, originality and great timbre variety
 permalink: /basses/altehorn
 url: /basses/altehorn
 mainImg: /assets/img/basses/altehorn_iv.png

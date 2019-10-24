@@ -2,6 +2,7 @@
 layout: guitar
 title: Amathone
 model: Amathone
+description: Initially conceived as a Jazz guitar, the Amathone, due to its characteristics, is a versatile and reliable guitar, as out of the ordinary
 permalink: /guitars/amathone
 url: /guitars/amathone
 mainImg: /assets/img/guitars/amathone_jazz.png
