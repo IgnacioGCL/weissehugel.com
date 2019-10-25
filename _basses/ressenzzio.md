@@ -2,6 +2,7 @@
 layout: guitar
 title: Ressenzzio
 model: Ressenzzio
+description: The Ressenzzio. A bass as special in electronics as in aesthetics. The only Weisse Hügel equipped with an Xtended pickup that gives it a depth full of presence
 permalink: /basses/ressenzzio
 url: /basses/ressenzzio
 mainImg: /assets/img/basses/ressenzzio.png

@@ -2,6 +2,7 @@
 layout: guitar
 title: Redemption
 model: Redemption
+description: The combination of a Lipstick pickup with two Humbuckers, make the Weisse Hügel Redemption one of the most original instruments of the brand
 permalink: /guitars/redemption
 url: /guitars/redemption
 mainImg: /assets/img/guitars/redemption.png

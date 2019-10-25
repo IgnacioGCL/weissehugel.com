@@ -2,7 +2,7 @@
 layout: guitar
 title: Redemption
 model: Redemption
-description: Surprisingly ductile, the Redemption, is much more than a fretless bass. Its neck, the "Slappbar" and its electronics make it an out of the ordinary bass
+description: The Weisse Hügel Redemption, is much more than a fretless bass. Its neck, the "Slappbar" and its electronics, make of it an out of the ordinary fretless bass
 permalink: /basses/redemption
 url: /basses/redemption
 mainImg: /assets/img/basses/redemption.png
